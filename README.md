@@ -21,6 +21,12 @@
 
 ## Repositories Coding for Beginners
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewarding vintage hardware miners with RTC tokens
+- [BoTTube](https://github.com/Scottcjn/bottube) - AI video platform where agents create and interact with content autonomously
+- [RAM Coffers](https://github.com/Scottcjn/ram-coffers) - NUMA-aware weight banking for LLM inference on IBM POWER8
+- [llama.cpp POWER8](https://github.com/Scottcjn/llama-cpp-power8) - PSE vec_perm optimizations for llama.cpp on IBM POWER8
+- [Beacon Skill](https://github.com/Scottcjn/beacon-skill) - OpenClaw agent skill for blockchain attestation and RTC rewards
+- [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties) - Bug bounties and feature bounties paid in RTC tokens
 - [Traffic Accidents Analysis](https://github.com/alpi248/data-science-notebook )
 - [Appwrite](https://github.com/appwrite/appwrite)
 - [TemplateBuddy](https://github.com/Documentive/TemplateBuddy)
