@@ -36,6 +36,7 @@
 - [HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects/)
 - [Smart Contract Snippets](https://github.com/rohitroy-github/smart-contract-snippets)
 - [Network Snipper](https://github.com/RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer)
+- [Every Language Fiscal Code](https://github.com/openapi/every-language-fiscal-code) - One algorithm, every programming language: implement the Italian Fiscal Code in a new language and pass 87 shared tests
 
 ## Repositories for intermediate/Advanced Coders
 
