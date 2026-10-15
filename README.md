@@ -46,6 +46,7 @@
 - [ThePhysicsHub](https://github.com/ThePhysHub/ThePhysicsHub/)
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit)
 - [DocsGPT - Documentation Assistant](https://github.com/arc53/DocsGPT/)
+- [Openapi PHP SDK](https://github.com/openapi/openapi-php-sdk) - Minimal PHP client for Openapi services, with open issues on Laravel, Symfony and WordPress integrations
 
 ## Guides and Resources
 
