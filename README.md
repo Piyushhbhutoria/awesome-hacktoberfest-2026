@@ -36,6 +36,7 @@
 - [HacktoberFest-Projects](https://github.com/Atharv-Attri/HacktoberFest-Projects/)
 - [Smart Contract Snippets](https://github.com/rohitroy-github/smart-contract-snippets)
 - [Network Snipper](https://github.com/RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer)
+- [gknowledge](https://github.com/openapi/gknowledge) - Native GNOME app (Python, GTK4) that turns documents into AI-assisted Markdown knowledge bases; good first issues on UI and README translations
 
 ## Repositories for intermediate/Advanced Coders
 
